@@ -2,7 +2,7 @@
   "posts": {
     "title": "foo",
     "body": "bar",
-    "userId": 0,
+    "userId": 1,
     "id": 100
   }
 }
