@@ -1,6 +1,8 @@
 {
-  "title": "foo",
-  "body": "bar",
-  "userId": 0,
-  "id": 100
+  "posts": {
+    "title": "foo",
+    "body": "bar",
+    "userId": 0,
+    "id": 100
+  }
 }
