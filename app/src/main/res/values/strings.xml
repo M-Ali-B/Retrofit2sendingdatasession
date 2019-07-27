@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit-2( sending data) session</string>
+    <string name="title_enter_post">Please enter Post data</string>
+    <string name="hint_title">Enter Title of Post</string>
+    <string name="hint_body">Enter Body of the Post</string>
+    <string name="action_submit">Submit the Post</string>
+</resources>
